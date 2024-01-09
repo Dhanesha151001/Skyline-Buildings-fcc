@@ -1,7 +1,7 @@
 # Skyline-Buildings-fcc 
 
-<h5>freecodecamp: Learn CSS by building skyline</h5> <br>
-A project that shows the buildings in <u>daylight</u> and <u>nightlight.</u> (2 different aspects:- based on the media query of max-width:1080px it shows buildings in nightlight and after exceeding that pixel ratio it shows buildings in daylight.
+<h3>freecodecamp: Learn CSS by building skyline</h3> <br>
+A project that shows the buildings in **daylight** and **nightlight**. (2 different aspects:- based on the media query of max-width:1080px it shows buildings in nightlight and after exceeding that pixel ratio it shows buildings in daylight.
 
 <br>
 <br>
